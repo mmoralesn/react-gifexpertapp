@@ -1,10 +1,11 @@
 # Getting Started with Create React App
 
-# Si no se refrescan los cambios, es por la version 17 de React (Preguntas y respuestas leccion 13)
+# Si no se refrescan los cambios, es por la
+# version 17 de React (Preguntas y espuestas seccion 13)
 
 # 1. Borrar directorio node_modules
 # 2. Se debe ejecutar:
-# npm install react-scripts@3.4.4 --save 
+# npm install react-scripts@3.4.4 --save
 # npm install webpack@4.42.0 --save
 # npm install
 
